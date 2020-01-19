@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Status downloader</string>
+    <string name="sub_title">For Whatsapp</string>
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_error_title">Error</string>
+    <string name="no_images_saved">No images saved</string>
+    <string name="no_images_recent">No recent status images found</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="dialog_action_cancel">Cancel</string>
+    <string name="msg_alert_delete_item_confirm">Item will be removed from saved list. Are you sure?</string>
+    <string name="title_delete_confirm_dialog">Confirm</string>
+    <string name="share">Share</string>
+    <string name="repost">Repost</string>
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+
+    <string name="original_banner">ca-app-pub-4429332908213324/9478718516</string>
+    <string name="original_interstitial">ca-app-pub-4429332908213324/5628115176</string>
+    <string name="original_app_id">ca-app-pub-4429332908213324~5656035335</string>
+
+    <!--<string name="original_banner">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--<string name="original_interstitial">ca-app-pub-3940256099942544/1033173712</string>-->
+    <!--<string name="original_app_id">ca-app-pub-4429332908213324~5656035335</string>-->
+</resources>
